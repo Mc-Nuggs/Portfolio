@@ -1,0 +1,1 @@
+If this project doesn't run it's because there are two CPPs. All you have to do is remove(Not Delete) a cpp and then just add it back and remove the other cpp.
